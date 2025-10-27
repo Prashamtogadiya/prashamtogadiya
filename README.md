@@ -13,7 +13,8 @@
 </div>
 
 ## 🔧 What I do now  
-- Engineer end-to-end **MERN** stack applications with scalable architecture, optimized APIs  
+- Engineer end-to-end **MERN** stack applications with scalable architecture, optimized APIs, and seamless developer workflows  
+Build robust data layers with **PostgreSQL**, **MySQL**, and **MongoDB** — blending relational structure with NoSQL flexibility
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=ffffff)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=0b0b0b)
@@ -34,7 +35,7 @@
 - Dive deep into **system design**, distributed architecture, and performance engineering for real-world scalability  
   ![System Design](https://img.shields.io/badge/System%20Design-0078D7?style=flat&logo=microsoftazure&logoColor=ffffff)
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashamtogadiya&layout=compact&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&hide_border=true&border_radius=10&border_color=131313" alt="Top Languages" />
 </div>
 
@@ -45,7 +46,8 @@
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=0b0b0b)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
 
-- Designing robust **SQL** and **NoSQL** schemas with relational integrity, indexing, and performance tuning  
+- Designing robust **SQL** and **NoSQL** schemas with relational integrity, indexing, and performance tuning
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff) 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 
@@ -61,8 +63,8 @@
   ![System Design](https://img.shields.io/badge/System%20Design-0078D7?style=flat&logo=microsoftazure&logoColor=ffffff)
 
 ## 🌟 Featured Projects  
-- 🎬 **Netflix-style Streaming Platform** — full-stack OTT web application built with the **MERN** stack and **Redux** for scalable state managment
-  - Features secure authentication (access & refresh tokens), multi-profile management, personalized **Watchlist**, and **intelligent content recommendations** based on user viewing history  
+- 🎬 **Netflix-style Streaming Platform** — full-stack OTT web application built with the **MERN** stack and **Redux** for scalable state management  
+  - Implements secure authentication (access & refresh tokens), multi-profile management, personalized **Watchlist**, and intelligent content recommendations driven by user viewing history  
   [`prashamtogadiya/Netflix`](https://github.com/prashamtogadiya/Netflix)
 
 - 🛒 **Flipkart-like E-Commerce Platform** — production-grade shopping experience developed using **React**, **Redux**, and **Express**  
