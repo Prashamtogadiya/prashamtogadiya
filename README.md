@@ -77,6 +77,18 @@
   - Designed for scalability and consistency, enabling rapid interface development with reusable, performant components  
   [`prashamtogadiya/Refine_Ui`](https://github.com/prashamtogadiya/Refine_Ui)
 
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/prasham-togadiya-0a32102b3/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+     <a href="https://stackoverflow.com/users/30786992/prasham">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" width="35" height="35"/>
+    </a>
+</div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 
