@@ -5,7 +5,7 @@
 </a>
 
 > [!IMPORTANT]
-> Don't take urself too seriously, we're all pretty dumbs here.
+> Life has no limitations, except the ones you make.
 
 <div class="badges-githubstats">
   <img src="https://github-readme-stats.vercel.app/api?username=prashamtogadiya&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="prasham's github statistics" height="140" />
@@ -15,24 +15,29 @@
 ## 🔧 What I do now  
 - Engineer end-to-end **MERN** stack applications with scalable architecture, optimized APIs, and seamless developer workflows  
 - Build robust data layers with **PostgreSQL**, **MySQL**, and **MongoDB** — blending relational structure with NoSQL flexibility
+  <br/>
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=ffffff)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=0b0b0b)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
 
-- Craft maintainable, type-safe frontends using **TypeScript** and **Redux Toolkit**, emphasizing modular state management and DX  
+- Craft maintainable, type-safe frontends using **TypeScript** and **Redux Toolkit**, emphasizing modular state management and DX
+  <br/>
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=ffffff)
 
-- Exploring next-gen frameworks — building performant SSR/SSG apps with **Next.js** and structured, testable APIs with **NestJS**  
+- Exploring next-gen frameworks — building performant SSR/SSG apps with **Next.js** and structured, testable APIs with **NestJS**
+  <br/> 
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=ffffff)
 
-- Design efficient **relational** & **document-oriented** data models with a focus on normalization, indexing, and query optimization  
+- Design efficient **relational** & **document-oriented** data models with a focus on normalization, indexing, and query optimization
+  <br/>
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 
-- Dive deep into **system design**, distributed architecture, and performance engineering for real-world scalability  
+- Dive deep into **system design**, distributed architecture, and performance engineering for real-world scalability
+  <br/>
   ![System Design](https://img.shields.io/badge/System%20Design-0078D7?style=flat&logo=microsoftazure&logoColor=ffffff)
 
 
@@ -41,7 +46,8 @@
 </div>
 
 ## ✨ I can help with  
-- Building scalable **MERN** stack applications with clean architecture and optimized APIs  
+- Building scalable **MERN** stack applications with clean architecture and optimized APIs
+  <br/>
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=ffffff)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=0b0b0b)
@@ -53,15 +59,13 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 
-- Architecting modular **frontend state systems** with **Redux Toolkit** and **TypeScript**, focused on maintainability and DX  
+- Architecting modular **frontend state systems** with **Redux Toolkit** and **TypeScript**, focused on maintainability and DX
+  <br/>
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=ffffff)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
 
-- Developing **Next.js** frontends (SSR, SSG, ISR) and **NestJS** backends (modular, testable, scalable APIs)  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=ffffff)
-
-- End-to-end **system design** — from API layer and caching strategy to load balancing and scalability patterns  
+- End-to-end **system design** — from API layer and caching strategy to load balancing and scalability patterns
+  <br/>
   ![System Design](https://img.shields.io/badge/System%20Design-0078D7?style=flat&logo=microsoftazure&logoColor=ffffff)
 
 ## 🌟 Featured Projects  
@@ -73,8 +77,8 @@
   - Includes dynamic product catalogs, advanced cart and checkout flows, and a fully responsive UI optimized for performance  
   [`prashamtogadiya/flipkart_MVP`](https://github.com/prashamtogadiya/flipkart_MVP)
 
-- 🧩 **Refine UI Component Library** — modern, modular UI system built with **React** and **Tailwind CSS**  
-  - Designed for scalability and consistency, enabling rapid interface development with reusable, performant components  
+- 🧩 **Refine UI Recreation** — a high-fidelity **React** + **Tailwind CSS** rebuild of the Refine framework’s user interface 
+  - Built to master responsive design systems, UI composition, and front-end architecture through reverse-engineering a production-grade layout
   [`prashamtogadiya/Refine_Ui`](https://github.com/prashamtogadiya/Refine_Ui)
 
 
