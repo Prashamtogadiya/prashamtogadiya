@@ -17,18 +17,11 @@
 - Build robust data layers with **PostgreSQL**, **MySQL**, and **MongoDB**, blending relational structure with NoSQL flexibility
   <br/>
  
-- Craft maintainable, type-safe frontends using **TypeScript** and **Redux Toolkit**, emphasizing modular state management and DX
-  <br/>
-  
-- Exploring next-gen frameworks, building performant SSR/SSG apps with **Next.js** and structured, testable APIs with **NestJS**
-  <br/> 
- 
-- Design efficient **relational** & **document-oriented** data models with a focus on normalization, indexing, and query optimization
+- Design efficient relational and document-based data models optimized for normalization, indexing, and query performance, with a focus on scalability and clean backend architecture.
   <br/>
  
 - Dive deep into **system design**, distributed architecture, and performance engineering for real-world scalability
   <br/>
-  ![System Design](https://img.shields.io/badge/System%20Design-0078D7?style=flat&logo=microsoftazure&logoColor=ffffff)
 
 
 <div align="center">
